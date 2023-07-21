@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm utox</h1>
+<h1 align="center">Hi 👋, I'm utox39</h1>
 <h3 align="center">I am an Italian student and a cyber security enthusiast</h3>
 
 - 🔭 I’m currently working on **new-project-cli** (Project that I will publish shortly)
