@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm utox</h1>
 <h3 align="center">I am an Italian student and a cyber security enthusiast</h3>
 
-- 🔭 I’m currently working on **new-project-cli**
+- 🔭 I’m currently working on **new-project-cli** (Project that I will publish shortly)
 
-- 🌱 I’m currently learning **c, c++ and rust**
+- 🌱 I’m currently learning **C, C++ and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/utox39](https://github.com/utox39)
 
