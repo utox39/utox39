@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm utox39</h1>
 <h3 align="center">I am an Italian CS student and a cyber security and system programming enthusiast</h3>
 
-- 🔭 I’m currently working on [z8x](https://github.com/utox39/z8x), [zigfetch](https://github.com/utox39/zigfetch) and [oh-my-update](https://github.com/utox39/oh-my-update)
+- 🔭 I’m currently working on [zigfetch](https://github.com/utox39/zigfetch) and [oh-my-update](https://github.com/utox39/oh-my-update)
 
 - 🌱 I’m currently learning **C** and **Zig**
 
